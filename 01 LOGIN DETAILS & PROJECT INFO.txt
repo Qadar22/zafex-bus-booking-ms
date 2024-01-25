@@ -2,7 +2,7 @@
 
 **Database Name: sbtbsphp**
 
-**Developed by Ashwin Anil**
+**Developed by MoxamedQadar**
 
 **Recommended PHP Version 5.6 or Newer**
 
